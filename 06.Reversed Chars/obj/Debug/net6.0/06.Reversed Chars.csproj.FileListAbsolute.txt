@@ -1,0 +1,15 @@
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\bin\Debug\net6.0\06.Reversed Chars.exe
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\bin\Debug\net6.0\06.Reversed Chars.deps.json
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\bin\Debug\net6.0\06.Reversed Chars.runtimeconfig.json
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\bin\Debug\net6.0\06.Reversed Chars.dll
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\bin\Debug\net6.0\06.Reversed Chars.pdb
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.csproj.AssemblyReference.cache
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.AssemblyInfo.cs
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.dll
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\refint\06.Reversed Chars.dll
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.pdb
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\06.Reversed Chars.genruntimeconfig.cache
+C:\Users\HV\source\repos\C# Data Types Lab\06.Reversed Chars\obj\Debug\net6.0\ref\06.Reversed Chars.dll
